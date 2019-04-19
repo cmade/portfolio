@@ -14,25 +14,41 @@ body{
 	position: fixed;
 	width: 100%;
 	overflow: hidden;
-	top: 0;
-	left: 0;
-	display: flex;
+
+
 }
 ul{
 	list-style-type: none;
+	float: right;
 	display: flex;
 	
-
 }
 li a{
 	text-decoration: none;
-	margin: 50px;
+
 
 }
 li{
-	margin-top: 15px;
-	margin-left: 100px;
+	
 }
 h1{
-	top: 0;
+
+}
+li:nth-last-child(-n+3){
+	margin-right: 10px;
+
+}
+#title{
+	margin-right: 50px;
+	
+}
+#welcome-section{
+	height: 750px;
+	width: 100%;
+	background-color: lightblue;
+	padding: 0px;
+	
+}
+#box1{
+	
 }
