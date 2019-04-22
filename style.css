@@ -17,7 +17,7 @@ header{
 	align-items: center; /* align vertical */
 }
 header > h1{
-	
+	text-align: center;	
 }
 @media only screen and (max-width: 720px) {
   body {
@@ -50,7 +50,7 @@ li:nth-last-child(-n+4){
 }
 #title{
 	position: fixed;
-  	left: 0;	
+  	left: 0;
 }
 
 #box1{
