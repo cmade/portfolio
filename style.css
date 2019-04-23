@@ -53,6 +53,16 @@ li:nth-last-child(-n+4){
   	left: 0;
 }
 
-#box1{
+#projects{
+	height: 750px;
+	width: 100%;
+	background-color: lightgreen;
+	padding: 0px;
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: top; /* align vertical */
 	
+}
+h2{
+	margin-top: 10px;
 }
