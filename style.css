@@ -64,12 +64,20 @@ li:nth-last-child(-n+4){
 	height: 750px;
 	width: 100%;
 	background-color: #00664d;
-	padding: 0px;
-	display: flex;
-	justify-content: center; /* align horizontal */
-	align-items: top; /* align vertical */
-	
+	text-align: center;
+	display: block;
+	margin: auto;
 }
 h2{
-	margin-top: 10px;
+	padding-top: 10px;
+}
+img{
+	height: 300px;
+	width: 475px;
+	padding: 20px;
+}
+
+#center{
+	display: inline-block;
+	text-align: center;
 }
