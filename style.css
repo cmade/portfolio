@@ -61,7 +61,7 @@ li:nth-last-child(-n+4){
 }
 
 #projects{
-	height: 750px;
+	height: 1020px;
 	width: 100%;
 	background-color: #00664d;
 	text-align: center;
@@ -72,12 +72,24 @@ h2{
 	padding-top: 10px;
 }
 img{
-	height: 300px;
-	width: 475px;
+	height: 400px;
+	width: 600px;
 	padding: 20px;
 }
 
 #center{
 	display: inline-block;
 	text-align: center;
+}
+button{
+	width: 120px;
+	height: 40px;
+	background-color: darkred;
+	font-size: 20px;
+}
+#space{
+	margin-top: 30px;
+}
+a{
+	text-decoration: none;
 }
