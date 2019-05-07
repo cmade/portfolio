@@ -104,7 +104,15 @@ a{
 	display: flex;
 	height: 100%;
 	padding-bottom: 100px;
+	
+
 }
 #top{
 	padding-top: 20px;
+}
+#profile-link{
+	margin: auto;
+}
+#middle1{
+	margin: auto;
 }
