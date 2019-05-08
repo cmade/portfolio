@@ -9,8 +9,8 @@ body{
 	width: 100%;
 	height: 1000px;
 }
-#About{
-	height: 750px;
+#welcome-section{
+	height: 100vh;
 	width: 100%;
 	display: flex;
 	background-color: #005c99;
@@ -20,7 +20,7 @@ body{
 	text-align: center;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 750px) {
   body {
     background-color: #339966;
   }
@@ -139,4 +139,7 @@ footer{
 }
 #feet{
 	font-size: 20px;
+}
+a{
+	padding-top: 5px;
 }
