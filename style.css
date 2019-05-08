@@ -80,7 +80,7 @@ img{
 	display: inline-block;
 	text-align: center;
 }
-button{
+#show-all{
 	width: 120px;
 	height: 40px;
 	background-color: darkred;
@@ -112,7 +112,31 @@ a{
 }
 #profile-link{
 	margin: auto;
+	width: 120px;
+	height: 40px;
+	background-color: darkblue;
+	border-style: none;
+	border-radius: 50%;
+	font-size: 20px;
 }
 #middle1{
 	margin: auto;
+	width: 120px;
+	height: 40px;
+	background-color: darkblue;
+	border-style: none;
+	border-radius: 50%;
+	font-size: 20px;
+}
+footer{
+	background-color: darkblue;
+	height: 10%;
+	display: flex;
+}
+#foot{
+	display: flex;
+	margin: auto;
+}
+#feet{
+	font-size: 20px;
 }
